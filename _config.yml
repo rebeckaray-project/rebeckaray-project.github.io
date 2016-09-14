@@ -13,7 +13,7 @@ domain_active: false
 github_account: rebeckaray
 github_password: rebeckawimse1
 
-port: 2000
+port: 1000
 envir: live
 
 email: info@wimse.se
