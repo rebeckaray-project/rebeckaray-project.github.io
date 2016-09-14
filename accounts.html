@@ -15,8 +15,10 @@ title: Accounts
 
     {% if site.github_account %}
       <h3>Github</h3>
-      <p>Konto: {{ site.github_account }} <br>
-        Lösenord: {{ site.github_password }}</p>
+      <table>
+        <tr><td>username: </td><td>{{ site.github_account }}</td></tr>
+        <tr><td>password: </td><td>{{ site.github_password }}</td></tr>
+      </table>
     {% endif %}
   </ul>
 </div>
