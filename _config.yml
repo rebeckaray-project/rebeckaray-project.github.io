@@ -14,7 +14,7 @@ github_account:
 github_password:
 
 port: 2000
-envir: devel
+envir: live
 
 email: info@wimse.se
 location:
